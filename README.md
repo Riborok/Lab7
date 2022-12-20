@@ -7,11 +7,11 @@
 
 ### Algorithm scheme (by Mapke's method): 
 
-![Algorithm scheme using the first variant Part1](https://i.imgur.com/PQ6dokw.png)
+![Algorithm scheme using the first variant Part1](https://i.imgur.com/XebzEyx.png)
 
-![Algorithm scheme using the first variant Part2](https://i.imgur.com/8ivelrh.png)
+![Algorithm scheme using the first variant Part2](https://i.imgur.com/6epsWci.png)
 
-![Algorithm scheme using the first variant Part3](https://i.imgur.com/AJNSmNv.png)
+![Algorithm scheme using the first variant Part3](https://i.imgur.com/t4cDL5F.png)
 
 ### Code:
 ``` pascal
